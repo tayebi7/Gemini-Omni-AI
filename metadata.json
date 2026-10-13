@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Omni",
+  "description": "منصة ذكاء اصطناعي شاملة بواجهة Gemini، دعم مزودي النماذج، الاستوديو الإبداعي، إدارة المنتجات، والتكاملات المهنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
